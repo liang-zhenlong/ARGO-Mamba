@@ -1,4 +1,6 @@
-# Axial Reorganization and Group Offset Mamba for Hyperspectral Image Classification
+<h1 align="center">
+  Axial Reorganization and Group Offset Mamba for Hyperspectral Image Classification
+</h1>
 
 <center>
   <div style="width: 55%;">
@@ -11,7 +13,7 @@
   </div>
 </center>
 
-
+## Notice
 This repository is dedicated to the experimental code of the submitted paper.
 
 For the protection of academic originality and copyright,
