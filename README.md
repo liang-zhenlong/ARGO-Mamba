@@ -1,4 +1,4 @@
-# ARGO-Mamba
+# Axial Reorganization and Group Offset Mamba for Hyperspectral Image Classification
 This repository is dedicated to the experimental code of the submitted paper.
 
 For the protection of academic originality and copyright,
