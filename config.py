@@ -17,7 +17,7 @@ class DefaultConfigs():
 
     dataset = 'ip'.upper()
     test_ratio = 0.97
-    epoches = 30
+    epoches = 300
     patch_size = 11
     
     batch_size = 64
